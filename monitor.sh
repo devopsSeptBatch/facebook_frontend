@@ -1,3 +1,4 @@
+just for practice
 hello everyone ....
 monitoring tools are promathes nd grafana
 this is monitoring script for master branch
